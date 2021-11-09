@@ -1,1 +1,0 @@
-# styles_fashion-dataset
